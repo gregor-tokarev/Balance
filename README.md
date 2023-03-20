@@ -1,24 +1,31 @@
-# budget-app
+<h1 align="center">Welcome to budget-app 👋</h1>
+<p>
+</p>
 
-## Project setup
-```
+> This is balance tracker app in vue.js^2. Created for educational perpuses
+
+## Install
+
+```sh
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+## Usage
+
+```sh
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Author
 
-### Lints and fixes files
-```
-npm run lint
-```
+👤 **Egor Tokarev**
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* Website: https://tokarev.work
+* Github: [@gregor-tokarev](https://github.com/gregor-tokarev)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
